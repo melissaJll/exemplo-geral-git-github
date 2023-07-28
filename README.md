@@ -11,3 +11,10 @@
 - push
 - pull
 - repositorio
+---
+## Lista qualquer
+
+1. Versionamento
+2. Git e Github
+3. Visual Studio Code
+
